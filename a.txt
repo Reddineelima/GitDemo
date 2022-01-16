@@ -1,1 +1,2 @@
 sdkmanager "platform-tools" "platforms;android-30"
+hi h r u
